@@ -12,7 +12,7 @@ Built with:
 
 # Screenshots
 ![Program interface](https://i.postimg.cc/hG09ZK53/image-009.png)
-![](https://i.postimg.cc/SKXhDKRm/image-001.png)
+
 ![](https://i.postimg.cc/mkPCrC20/image-002.png)
 ![](https://i.postimg.cc/NLh9fnnH/image-003.png)
 ![](https://i.postimg.cc/s2nJDV4G/image-004.png)
