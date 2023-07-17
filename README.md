@@ -14,10 +14,10 @@ Built with:
 ![Program interface](https://i.postimg.cc/hG09ZK53/image-009.png)
 
 ![](https://i.postimg.cc/mkPCrC20/image-002.png)
-![](https://i.postimg.cc/NLh9fnnH/image-003.png)
+
 ![](https://i.postimg.cc/s2nJDV4G/image-004.png)
 ![](https://i.postimg.cc/59QmbWYj/image-005.png)
-![](https://i.postimg.cc/BnpTMqy7/image-006.png)
+
 ![](https://i.postimg.cc/XN59tKmC/image-007.png)
 ![](https://i.postimg.cc/6qB6jNFz/image-008.png)
 
