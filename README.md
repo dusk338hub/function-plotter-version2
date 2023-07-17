@@ -1,4 +1,4 @@
-﻿
+
 # Function Plotter
 
 A GUI application that plots any given function.
